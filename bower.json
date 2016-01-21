@@ -1,0 +1,23 @@
+{
+  "name": "iris-polymer-iconset",
+  "homepage": "https://github.com/sdk-group/iris-polymer-iconset",
+  "authors": [
+    "artificial-life <proteus.protocol@gmail.com>"
+  ],
+  "description": "base icons for iris polymer apps",
+  "main": "iris-iconset.html",
+  "moduleType": [],
+  "keywords": [
+    "icons",
+    "\"My",
+    "Documents\""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
